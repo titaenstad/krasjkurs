@@ -1,0 +1,12 @@
+Boris, 5, rød
+Django, 8, gul
+Geir, 62, hudfarga
+Lise, 0.5, rød
+Anne, 7, rød
+Snoopy, 5, svarthvit
+Snuten, 10, rød
+Huskie, 10, grå
+Jonas, 47, rød
+Tommi, 17, grå
+Vera, 9, stripet
+Katte-Larsen, 16, gul
